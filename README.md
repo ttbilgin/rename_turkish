@@ -104,10 +104,10 @@ Program iki farklı Unicode normalizasyon formatını destekler:
 
 Bazı sistemler (özellikle macOS) NFD formatını kullandığı için, bu program her iki durumu da doğru şekilde işler.
 
-### Neden C?
+### Neden C ile yazıldı?
 
 - Minimum dosya boyutu (~20 KB)
-- Harici runtime bağımlılığı yok
+- Hiçbir kütüphane veya runtime bağımlılığı yok
 - Doğrudan Windows API erişimi
 - Hızlı çalışma
 
@@ -123,13 +123,14 @@ Bazı sistemler (özellikle macOS) NFD formatını kullandığı için, bu progr
 
 ## Gereksinimler
 
-- Windows 7 veya üzeri
+- Tüm 64 bit Windows işletim sistemlerinde çalışır.
 - Derleme için: MinGW-w64
 
 ## Lisans
 
 MIT License
 
-## Katkıda Bulunma
+## Geliştirici
 
-Pull request ve issue'larınızı bekliyoruz!
+her türlü sorularınız için ttbilgin@gmail.com.
+Turgay Tugay BİLGİN
