@@ -1,4 +1,4 @@
-# Rename Turkish
+# Dosya adlarından Türkçe karakterleri temizle (Rename Turkish)
 
 Windows için dosya adlarındaki Türkçe karakterleri ASCII karşılıklarıyla değiştiren hafif ve hızlı bir araç.
 
