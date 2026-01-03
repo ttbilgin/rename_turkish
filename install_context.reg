@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\RenameTurkish]
+@="Turkce Karakterleri Temizle"
+"Icon"="shell32.dll,133"
+
+[HKEY_CLASSES_ROOT\*\shell\RenameTurkish\command]
+@="\"C:\\Tools\\rename_turkish.exe\" \"%1\""
